@@ -1,0 +1,13 @@
+.educationDetails{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid grey;
+}
+
+.schoolDetail{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+}
